@@ -2,6 +2,9 @@
 
 A modern, high-contrast editorial portfolio website for **Mustafa Ali Hakeemi** (BS Robotics Student at The Islamia University of Bahawalpur), designed to match the minimalist, high-end editorial aesthetic featuring bold outlined display typography, clean pill badges, and a centered portrait cutout.
 
+- 🌐 **Live Website**: [https://mustafahakeemi-portfolio.vercel.app/](https://mustafahakeemi-portfolio.vercel.app/)
+- 💼 **LinkedIn Profile**: [Mustafa Hakeemi](https://www.linkedin.com/in/mustafa-hakeemi-97270230a/)
+
 ---
 
 ## 🌟 Key Highlights & Design Features
