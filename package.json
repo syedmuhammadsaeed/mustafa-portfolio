@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Personal Portfolio for Mustafa Ali Hakeemi — BS Robotics & AI Engineer",
   "scripts": {
-    "start": "python -m http.server 3000",
+    "start": "npx serve .",
     "deploy": "npx vercel --prod"
   },
   "keywords": [
